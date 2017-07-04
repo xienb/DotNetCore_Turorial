@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.2"/>
+    <!--PackageReference Include="NETStandard.Library" Version="1.6.0"/-->
+    <PackageReference Include="SapientGuardian.MySql.Data" Version="6.9.813"/>
+  </ItemGroup>
+</Project>

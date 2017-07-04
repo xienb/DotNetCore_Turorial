@@ -1,0 +1,7 @@
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/bin/Debug/netstandard2.0/DotNetTurorial.Common.deps.json
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/bin/Debug/netstandard2.0/DotNetTurorial.Common.dll
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/bin/Debug/netstandard2.0/DotNetTurorial.Common.pdb
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/obj/Debug/netstandard2.0/DotNetTurorial.Common.csproj.CoreCompileInputs.cache
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/obj/Debug/netstandard2.0/DotNetTurorial.Common.AssemblyInfo.cs
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/obj/Debug/netstandard2.0/DotNetTurorial.Common.dll
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.Common/obj/Debug/netstandard2.0/DotNetTurorial.Common.pdb

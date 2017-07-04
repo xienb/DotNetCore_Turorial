@@ -1,0 +1,11 @@
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.deps.json
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.runtimeconfig.json
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.runtimeconfig.dev.json
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.dll
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.pdb
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.Common.dll
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/bin/Debug/netcoreapp2.0/DotNetTurorial.Common.pdb
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/obj/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.csproj.CoreCompileInputs.cache
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/obj/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.AssemblyInfo.cs
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/obj/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.dll
+/home/xienb/dotnetcore/dotnetcore_tutrorial/DotNetTurorial.ConsoleApp/obj/Debug/netcoreapp2.0/DotNetTurorial.ConsoleApp.pdb
